@@ -1,1 +1,1 @@
-# AMBarral-Quiz.git.io
+# AMBarral-Quiz.github.io
